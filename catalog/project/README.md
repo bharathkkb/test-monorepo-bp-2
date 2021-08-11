@@ -3,7 +3,7 @@
 A project and a project namespace in which to manage project resources with
 Config Connector.
 
-test
+test1
 
 ## Setters
 
