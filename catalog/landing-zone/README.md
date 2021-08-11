@@ -6,7 +6,7 @@ This blueprint configures organization level IAM permissions.
 
 For a full tutorial, see
 [Deploy a landing zone blueprint](https://cloud.google.com/anthos-config-management/docs/tutorials/landing-zone).
-feature
+featurefix
 ## Setters
 
 ```
