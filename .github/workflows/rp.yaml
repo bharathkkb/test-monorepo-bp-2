@@ -1,15 +1,15 @@
-# name: release
-# on:
-#   push:
-#     branches:
-#       - main
+name: release
+on:
+  push:
+    branches:
+      - main
 
-# jobs:
-#   release-please:
-#     name: rp
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: google-github-actions/release-please-action@main
-#         id: release
-#         with:
-#           command: manifest
+jobs:
+  release-please:
+    name: rp
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@main
+        id: release
+        with:
+          command: manifest
