@@ -6,6 +6,8 @@ An example of an empty blueprint.
 
 This package has no top-level setters. See sub-packages.
 
+test
+
 ## Sub-packages
 
 This package has no sub-packages.
